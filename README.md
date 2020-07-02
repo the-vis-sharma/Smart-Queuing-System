@@ -8,3 +8,6 @@ Create this project as part of my Intel Edge AI for IoT Devleper Nanodegree prog
 Each scenario has it's own requirements and based on those requirements I have test the project on Intel DevCloud on different hardware devices like CPU, IGPU, VPU and FPGA. 
 
 To run this project, just go to the respective scenario notebook file and run the cells.
+
+## Screenshots
+<img src="/../master/original_videos/image.png?raw=true" width="1200" height="600" />
